@@ -16,7 +16,7 @@ brew install opencv
 brew install pkg-config
 ```
 
--vcpkg
+- vcpkg
 
 ```bash
 brew install vcpkg
