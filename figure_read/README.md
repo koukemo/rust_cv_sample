@@ -1,4 +1,4 @@
-# Rust CV Sample
+# Figure Read
 
 ## Required
 
